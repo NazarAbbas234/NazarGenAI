@@ -37,7 +37,7 @@ streamlit run openai_streamlit-chatbot
 
 Here’s how the chatbot looks in action:
 
-![Chatbot Screenshot](Assets/images/chatbot.png)
+![Chatbot Screenshot](Assets/images/chatbot.PNG)
 
 
 
