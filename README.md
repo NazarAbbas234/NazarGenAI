@@ -31,3 +31,13 @@ pip install -r requirements.txt
 
 4. Run the app:
 streamlit run openai_streamlit-chatbot
+
+
+## 💻 Demo
+
+Here’s how the chatbot looks in action:
+
+![AI Chatbot Screenshot](assets/images/chatbot.png)
+
+
+
